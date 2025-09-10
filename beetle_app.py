@@ -46,5 +46,5 @@ if st.button("Run Crawler"):
     else:
         st.warning("No pages were crawled.")
 
-# streamlit run beetle_app.py
+
 
