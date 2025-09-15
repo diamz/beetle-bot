@@ -5,3 +5,4 @@ pandas
 httpx
 tldextract
 trafilatura
+h2
